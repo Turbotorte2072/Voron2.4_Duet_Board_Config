@@ -1,0 +1,5 @@
+G28
+M98 P"/macros/moveto/get_probe/get_probe.g"
+G32
+G29
+;; M98 P"/macros/moveto/get_probe/end_mesh.g"
